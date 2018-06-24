@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>stonedAlien.gif</file>
+    <file>moodSuperHappy.png</file>
+    <file>bird.jpg</file>
+    <file>blowBrains.gif</file>
+    <file>blowBrains.jpeg</file>
+  </qresource>
+</RCC>
